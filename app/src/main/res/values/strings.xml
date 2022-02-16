@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compras Currency</string>
+    <string name="txt_bem_vindo">Seja bem-vindo</string>
+    <string name="txt_calcular_valor">Calular Valor</string>
+    <string name="txt_txt_informe_valor">Informe o valor da Cryptomoeda</string>
+</resources>
